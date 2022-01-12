@@ -1,6 +1,6 @@
 <div align="center">
   
-```cpp
-#include "vandus.hpp"
+```python
+  import vandus
 ```
 </div>
