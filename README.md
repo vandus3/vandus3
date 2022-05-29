@@ -1,6 +1,6 @@
 <div align="center">
   
-```python
-  import vandus
+```c++
+  #include <vandus.h>
 ```
 </div>
