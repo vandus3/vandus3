@@ -1,6 +1,6 @@
 <div align="center">
   
-```c++
-  #include <vandus.h>
+```js
+  import Profile from './users/vandus'
 ```
 </div>
