@@ -1,6 +1,6 @@
 <div align="center">
   
-```js
-  import Profile from './users/vandus'
+```rs
+  println!("vandus")
 ```
 </div>
