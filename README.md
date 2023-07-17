@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vandus</h1>
-<h3 align="center">I'm a student and developer based on Turkey</h3>
+<h3 align="center">I'm a student and developer living in Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandus3&label=Profile%20views&color=0e75b6&style=flat" alt="vandus3" /> </p>
 
